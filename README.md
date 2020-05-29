@@ -1,5 +1,4 @@
-<a href="https://vk.com/doc-78641724_393701278?hash=83791bdb1bd6d74aeb&dl=786541c20001d974e0">Лабораторная работа №10</a>  
-  
+<a href="https://vk.com/doc-78641724_393701278?hash=83791bdb1bd6d74aeb&dl=786541c20001d974e0">Лабораторная работа №10</a>    
 
 1.<a href="https://github.com/Maxim22052002/Lab10/tree/master/Number1(10)">Тест продвинутых алгоритмов сортировки.</a>   
 2.<a href="https://github.com/Maxim22052002/Lab10/tree/master/Number2(10)">Алгоритм сортировки подсчетами.</a>  
